@@ -1,4 +1,4 @@
-# FriendlyChat
+# LetsChat
 
 This repository contains code for the LetsChat project.
 
